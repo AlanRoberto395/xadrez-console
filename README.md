@@ -1,6 +1,6 @@
 # ♟️ Xadrez em Terminal
 
-Um programa de console criado em C# / .NET com o propósito de praticar e solidificar os alicerces da Programação Orientada a Objetos (POO) e a lógica de programação aplicada a um jogo de xadrez completo.
+Programa de console feito em C# / .NET com o propósito de treinar e solidificar os pilares da Programação Orientada a Objetos (POO) e a lógica de programação usada num jogo de xadrez completo.
 
 ---
 
