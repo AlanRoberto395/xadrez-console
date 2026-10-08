@@ -1,4 +1,5 @@
 # ♟️ Xadrez em Terminal
+<img width="1067" height="1008" alt="Imagem-Terminal" src="https://github.com/user-attachments/assets/06fdc479-6aaa-4f66-94cd-fa37a8a03291" />
 
 Programa de console feito em C# / .NET com o propósito de treinar e solidificar os pilares da Programação Orientada a Objetos (POO) e a lógica de programação usada num jogo de xadrez completo.
 
